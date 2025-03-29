@@ -1,2 +1,2 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Welcome to HJC Final Project</h1>
+<a href="/src/lib/Poverty.svelte">Poverty Viz</a>
